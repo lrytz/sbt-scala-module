@@ -6,10 +6,11 @@ This is an sbt 1.x plugin for building Scala modules.
 
 * [scala-async](https://github.com/scala/scala-async)
 * [scala-collection-compat](https://github.com/scala/scala-collection-compat)
+* [scala-continuations](https://github.com/scala/scala-continuations)
 * [scala-java8-compat](https://github.com/scala/scala-java8-compat)
 * [scala-parallel-collections](https://github.com/scala/scala-parallel-collections)
 * [scala-parser-combinators](https://github.com/scala/scala-parser-combinators)
-* [scala-partest](https://github.com/scala/scala-partest)
+* [scala-partest](https://github.com/scala/scala-partest) (legacy)
 * [scala-swing](https://github.com/scala/scala-swing)
 * [scala-xml](https://github.com/scala/scala-xml)
 
